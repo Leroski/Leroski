@@ -1,4 +1,4 @@
-# Hi, I'm Diego González 
+# Hi there, I'm Diego González Leiva
 
 🎓 **Computer Engineering student at Universidad de Chile**  
 📍 Santiago, Chile
@@ -33,6 +33,10 @@ A personal project to organize and preserve martial arts learning resources. Bui
 An academic project exploring NASA Kepler data through clustering, dimensionality reduction, and supervised learning to distinguish confirmed exoplanets from false positives.
 
 `Python` `scikit-learn` `pandas`
+
+####  future projects
+Sensei (habit tracker app)
+Pinda (educative software about birds)
 
 I'm also interested in education, science in general, and using technology to make knowledge more accessible
 - **GitHub:** [github.com/Leroski](https://github.com/Leroski)
